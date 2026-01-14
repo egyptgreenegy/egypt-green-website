@@ -1,0 +1,401 @@
+{
+  "Header": {
+    "logoAlt": "Logo Egypt Green",
+    "companyName": "Egypt Green",
+    "address": "Le Caire, Égypte",
+    "nav": {
+      "home": "Accueil",
+      "about": "À Propos",
+      "products": "Produits",
+      "blog": "Blog",
+      "contact": "Contact",
+      "beAgent":"Devenez Agent",
+      "articles":"Articles"
+    },
+    "downloadBrochure": "Télécharger la Brochure",
+    "selectLanguage": "Sélectionner la Langue"
+  },
+  "Footer": {
+    "logoAlt": "Logo Egypt Green",
+    "companyName": "Egypt Green",
+    "companyDescription": "Fournisseur leader de solutions agricoles durables pour les agriculteurs d'Afrique et du Moyen-Orient.",
+    "address": "Le Caire, Égypte",
+    "copyright": "Tous Droits Réservés",
+    "sections": {
+      "quickLinks": "Liens Rapides",
+      "products": "Nos Produits",
+      "support": "Support"
+    },
+    "links": {
+      "home": "Accueil",
+      "about": "À Propos",
+      "products": "Produits",
+      "blog": "Blog",
+      "contact": "Contact",
+      "fertilizers": "Engrais",
+      "pestControl": "Contrôle des Parasites",
+      "soilEnhancers": "Améliorateurs de Sol",
+      "organicSolutions": "Solutions Biologiques",
+      "faq": "FAQ",
+      "shipping": "Expédition",
+      "returns": "Retours",
+      "terms": "Conditions Générales",
+      "privacy": "Politique de Confidentialité"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Abonnez-vous à notre newsletter pour les dernières mises à jour et offres.",
+      "placeholder": "Votre adresse e-mail",
+      "subscribe": "S'abonner"
+    }
+  },
+  "About": {
+    "title": "À Propos de Nous",
+    "subtitle": "Pionnier des solutions agricoles durables pour un avenir plus vert",
+    "heroAlt": "Champs agricoles Egypt Green",
+    "ourStory": "Notre Histoire",
+    "storyPara1": "Fondée en 2010, Egypt Green a commencé avec une mission simple : fournir aux agriculteurs des solutions agricoles durables qui améliorent la productivité tout en préservant l'environnement.",
+    "storyPara2": "Ce qui a commencé comme une petite initiative de recherche est devenu un fournisseur leader de produits agricoles biologiques à travers l'Afrique et le Moyen-Orient, servant des milliers d'agriculteurs avec des solutions innovantes.",
+    "storyPara3": "Aujourd'hui, nous continuons à étendre notre portée et notre impact, en développant de nouveaux produits et technologies qui répondent aux défis évolutifs de l'agriculture moderne.",
+    "established": "Établie en 2010",
+    "countries": "Plus de 15 Pays",
+    "farmers": "Plus de 10 000 Agriculteurs",
+    "storyImageAlt": "Fondateurs d'Egypt Green sur le terrain",
+    "missionVision": "Mission & Vision",
+    "missionVisionSubtitle": "Guidés par notre engagement envers l'agriculture durable et le succès des agriculteurs",
+    "ourMission": "Notre Mission",
+    "missionText": "Donner aux agriculteurs les moyens d'utiliser des solutions agricoles durables qui améliorent la productivité, préservent l'environnement et améliorent les moyens de subsistance.",
+    "missionPoint1": "Développer des produits biologiques innovants",
+    "missionPoint2": "Fournir des solutions accessibles à tous les agriculteurs",
+    "missionPoint3": "Soutenir les pratiques agricoles durables",
+    "ourVision": "Notre Vision",
+    "visionText": "Être le principal fournisseur de solutions agricoles durables en Afrique et au Moyen-Orient, conduisant la transition vers une agriculture régénératrice.",
+    "visionPoint1": "Transformer l'agriculture dans toute la région",
+    "visionPoint2": "Réduire l'impact environnemental de l'agriculture",
+    "visionPoint3": "Améliorer la sécurité alimentaire et la prospérité des agriculteurs",
+    "ourValues": "Nos Valeurs",
+    "valuesSubtitle": "Les principes qui guident notre travail et nos relations",
+    "values": {
+      "sustainability": "Durabilité",
+      "sustainabilityDesc": "Engagement envers la gestion environnementale dans tous nos produits et opérations",
+      "quality": "Qualité",
+      "qualityDesc": "Fournir des produits premium qui répondent aux normes d'efficacité les plus élevées",
+      "community": "Communauté",
+      "communityDesc": "Établir des relations solides avec les agriculteurs et les communautés agricoles",
+      "innovation": "Innovation",
+      "innovationDesc": "Développer continuellement de nouvelles solutions pour répondre aux défis évolutifs"
+    },
+    "ourTeam": "Notre Équipe",
+    "teamSubtitle": "Rencontrez les professionnels dévoués derrière Egypt Green",
+    "joinUs": "Rejoignez Notre Mission",
+    "joinUsText": "Intéressé à collaborer avec nous ou à en savoir plus sur nos solutions agricoles durables?",
+    "contactButton": "Contactez-Nous Aujourd'hui"
+  },
+  "Contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Entrez en contact avec notre équipe pour des demandes, du support ou des opportunités de partenariat",
+    "heroAlt": "Support de contact Egypt Green",
+    "contactInfo": "Informations de Contact",
+    "phone": "Téléphone",
+    "email": "Email",
+    "address": "Adresse",
+    "addressLine1": "123 Avenue Agricole",
+    "addressLine2": "Le Caire, Égypte",
+    "hours": "Heures d'Ouverture",
+    "weekdays": "Lundi - Vendredi: 9h00 - 17h00",
+    "weekend": "Samedi: 10h00 - 14h00",
+    "sendMessage": "Envoyez-Nous un Message",
+    "nameLabel": "Votre Nom",
+    "namePlaceholder": "Entrez votre nom complet",
+    "emailLabel": "Adresse Email",
+    "emailPlaceholder": "Entrez votre adresse email",
+    "phoneLabel": "Numéro de Téléphone",
+    "phonePlaceholder": "Entrez votre numéro de téléphone (optionnel)",
+    "subjectLabel": "Sujet",
+    "subjectPlaceholder": "De quoi concerne votre message?",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Veuillez fournir des détails sur votre demande...",
+    "send": "Envoyer le Message",
+    "sending": "Envoi en cours...",
+    "successMessage": "Merci! Votre message a été envoyé avec succès. Nous vous répondrons bientôt.",
+    "findUs": "Trouvez-Nous",
+    "errors": {
+      "nameRequired": "Le nom est requis",
+      "emailRequired": "L'email est requis",
+      "emailInvalid": "Veuillez saisir une adresse email valide",
+      "phoneInvalid": "Veuillez saisir un numéro de téléphone valide (10 chiffres)"
+    }
+  },
+  "Testimonials": {
+    "title": "Témoignages Clients",
+    "subtitle": "Découvrez ce que nos clients disent de nos produits et services",
+    "viewTestimonials": "Voir les Témoignages",
+    "shareYourStory": "Partagez Votre Histoire",
+    "customerStories": "Ce Que Disent Nos Clients",
+    "all": "Tous",
+    "farmers": "Agriculteurs",
+    "distributors": "Distributeurs",
+    "partners": "Partenaires",
+    "shareExperience": "Partagez Votre Expérience",
+    "shareSubtitle": "Nous aimerions connaître votre expérience avec les produits Egypt Green",
+    "formName": "Votre Nom",
+    "formEmail": "Adresse Email",
+    "formType": "Vous êtes un",
+    "formRating": "Votre Évaluation",
+    "formMessage": "Votre Témoignage",
+    "formSubmit": "Soumettre le Témoignage",
+    "thankYou": "Merci pour vos commentaires!"
+  },
+  "Articles":{
+    
+  },
+  "BeAgent": {
+    "title": "Devenez Agent",
+    "subtitle1": "Opportunité d'investissement exceptionnelle dans le domaine des engrais et fertilisants agricoles",
+    "subtitle2": "Vous cherchez un partenariat à long terme avec un fabricant fiable qui vous offre des produits efficaces et demandés sur les marchés agricoles",
+    "whyChoose": "Pourquoi devenir agent pour Egypt Green Factory ?",
+    "whyChooseDescription": "Nous vous fournissons tout ce dont vous avez besoin pour devenir un agent immobilier prospère avec un soutien continu et des opportunités de croissance illimitées",
+    "benefits": {
+      "products": {
+        "title": "Produits spécialement conçus pour les sols d'Afrique et d'Asie",
+        "description": "Nous proposons des formulations efficaces prouvées sur le terrain pour améliorer la fertilité du sol et augmenter la production."
+      },
+      "experience": {
+        "title": "Expérience et historique établi",
+        "description": "Plus de 15 ans de succès, et plus de 60 agents en Afrique et Asie réalisant une croissance réelle sur leurs marchés"
+      },
+      "contacts": {
+        "title": "Contrats simplifiés et procédures d'exportation rapides",
+        "description": "Nous fournissons un système de contrat flexible et un soutien logistique complet pour faciliter les opérations d'approvisionnement."
+      },
+      "marketing": {
+        "title": "Soutien marketing continu",
+        "description": "Matériel promotionnel, formations techniques et consultations agricoles pour assurer votre succès sur le marché"
+      }
+    },
+    "requirements": {
+      "title": "Qui peut rejoindre ?",
+      "experience": {
+        "title": "Expérience",
+        "description": "Expérience en vente ou agriculture (préférée mais non obligatoire)"
+      },
+      "skills": {
+        "title": "Compétences",
+        "description": "Excellentes compétences en communication et capacité à travailler avec les clients"
+      },
+      "location": {
+        "title": "Localisation",
+        "description": "Résidence dans la zone où vous souhaitez travailler"
+      }
+    },
+    "form": {
+      "title": "Demande d'adhésion",
+      "fullName": {
+        "label": "Nom complet",
+        "placeholder": "Entrez votre nom complet"
+      },
+      "email": {
+        "label": "Adresse e-mail",
+        "placeholder": "Entrez votre adresse e-mail"
+      },
+      "phone": {
+        "label": "Numéro de téléphone",
+        "placeholder": "Entrez votre numéro de téléphone"
+      },
+      "whatsapp": {
+        "label": "Numéro WhatsApp",
+        "placeholder": "Entrez votre numéro WhatsApp"
+      },
+      "companyName": {
+        "label": "Nom de l'entreprise",
+        "placeholder": "Entrez le nom de votre entreprise"
+      },
+      "country": {
+        "label": "Pays",
+        "placeholder": "Sélectionnez le pays"
+      },
+      "website": {
+        "label": "Site web ou plateformes de médias sociaux",
+        "placeholder": "Entrez votre site web ou comptes de médias sociaux"
+      },
+      "experience": {
+        "label": "Années d'expérience en agriculture",
+        "placeholder": "Sélectionnez l'expérience",
+        "options": {
+          "none": "Aucune expérience",
+          "1-2": "1-2 ans",
+          "3-5": "3-5 ans",
+          "6-10": "6-10 ans",
+          "10plus": "Plus de 10 ans"
+        }
+      },
+      "hasDistributionExperience": {
+        "label": "Avez-vous déjà obtenu une agence pour la distribution d'engrais ou de pesticides ?",
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "message": {
+        "label": "Message / Notes supplémentaires",
+        "placeholder": "Ajoutez des notes ou messages supplémentaires..."
+      },
+      "agreeTerms": "J'accepte les termes et conditions",
+      "submit": "Soumettre la candidature",
+      "submitting": "Envoi en cours...",
+      "successMessage": "Votre candidature a été soumise avec succès ! Nous vous contacterons bientôt."
+    },
+    "stats": {
+      "activeAgents": "Agents Actifs",
+      "salesCompleted": "Ventes Réalisées",
+      "clientSatisfaction": "Satisfaction Client",
+      "yearsExperience": "Années d'Expérience"
+    }
+  },
+  "Landing": {
+    "hero": {
+      "badge": "Partenaire de confiance depuis 2016",
+      "title": "Devenez agent d'Egypt Green Factory",
+      "subtitle": "Un partenariat stratégique basé sur la confiance et la réussite",
+      "description": "Vous recherchez une opportunité lucrative dans le secteur des engrais agricoles et des amendements de sol ? Rejoignez notre réseau d'agents performants dans plus de 15 pays d'Afrique et d'Asie et associez-vous à Egypt Green Factory, leader des solutions d'engrais innovantes adaptées aux sols tropicaux et aux climats difficiles",
+      "stats": [
+        { "number": "25+", "label": "Produits" },
+        { "number": "60+", "label": "Partenaires" },
+        { "number": "15+", "label": "Pays" },
+        { "number": "8+", "label": "Années" }
+      ]
+    },
+    "challenges": {
+      "title": "Défis auxquels font face les distributeurs",
+      "subtitle": "Nous comprenons les complexités de l'activité de distribution d'engrais",
+      "items": [
+        {
+          "icon": "BarChart3",
+          "title": "Approvisionnement incohérent",
+          "description": "Difficulté à maintenir des niveaux de stock cohérents et à répondre à la demande des clients"
+        },
+        {
+          "icon": "Award",
+          "title": "Préoccupations de qualité",
+          "description": "Trouver des fournisseurs fiables qui garantissent la qualité et la cohérence des produits"
+        },
+        {
+          "icon": "Users",
+          "title": "Gamme de produits limitée",
+          "description": "Besoin d'un portefeuille de produits complet pour répondre aux divers besoins des clients"
+        }
+      ]
+    },
+    "solution": {
+      "title": "Votre solution complète d'engrais",
+      "subtitle": "Egypt Green fournit tout ce dont vous avez besoin pour réussir sur le marché de la distribution d'engrais"
+    },
+    "products": {
+      "title": "Portefeuille de produits complet",
+      "subtitle": "Des nutriments de base aux solutions spécialisées",
+      "categories": [
+        {
+          "icon": "Leaf",
+          "title": "Engrais composés NPK",
+          "description": "Solutions nutritionnelles complètes pour tous types de cultures"
+        },
+        {
+          "icon": "BarChart3",
+          "title": "Engrais hydrosolubles",
+          "description": "100% solubles pour la fertigation et l'application foliaire"
+        },
+        {
+          "icon": "Globe",
+          "title": "Conditionneurs de sol",
+          "description": "Acides humiques, fulviques et complexes d'acides aminés"
+        },
+        {
+          "icon": "Award",
+          "title": "Micronutriments",
+          "description": "Oligo-éléments essentiels pour une santé optimale des plantes"
+        },
+        {
+          "icon": "Truck",
+          "title": "Engrais foliaires",
+          "description": "Nutriments à action rapide pour une réponse immédiate des plantes"
+        },
+        {
+          "icon": "Star",
+          "title": "Produits spécialisés",
+          "description": "Formulations personnalisées pour des exigences de cultures spécifiques"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi s'associer avec Egypt Green",
+      "subtitle": "Support complet pour votre succès en distribution",
+      "items": [
+        {
+          "icon": "Award",
+          "title": "Qualité garantie",
+          "description": "Fabrication certifiée ISO avec contrôle de qualité rigoureux"
+        },
+        {
+          "icon": "Truck",
+          "title": "Chaîne d'approvisionnement fiable",
+          "description": "Disponibilité constante et livraison ponctuelle dans le monde entier"
+        },
+        {
+          "icon": "Users",
+          "title": "Support technique",
+          "description": "Conseils agronomiques experts et support marketing"
+        },
+        {
+          "icon": "Globe",
+          "title": "Portée mondiale",
+          "description": "Service aux distributeurs à travers l'Afrique et la région du Golfe"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Ce que disent nos partenaires",
+      "items": [
+        {
+          "name": "Ahmed Hassan",
+          "company": "Green Valley Distributors",
+          "country": "Kenya",
+          "text": "Egypt Green a été notre partenaire fiable pendant 3 ans. La qualité de leurs produits et leur support sont exceptionnels."
+        },
+        {
+          "name": "Sarah Al-Mahmoud",
+          "company": "Gulf Agricultural Solutions",
+          "country": "EAU",
+          "text": "Le support technique et la gamme de produits nous ont aidés à étendre notre marché de manière significative."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Prêt à vous associer avec nous ?",
+      "subtitle": "Rejoignez notre réseau de distributeurs prospères dans le monde entier",
+      "email": "info@egypt-green.com",
+      "phone": "+201140144322",
+      "whatsapp": "wa.me/+201140144322",
+      "address": "Le Caire, Égypte"
+    },
+    "seo":{
+      "title": "Devenez Agent pour Egypt Green Factory",
+      "description": "Rejoignez Egypt Green Factory en tant que distributeur et accédez à une gamme complète d'engrais et d'amendements de sol de haute qualité. Associez-vous avec nous pour une qualité garantie, un approvisionnement fiable et un support expert sur le marché agricole.",
+      "keywords": "Egypt Green, distributeur d'engrais, solutions agricoles, amendements de sol, engrais NPK, engrais foliaires, micronutriments, conditionneurs de sol, distribution mondiale, partenariat agricole"
+    }
+  },
+  "Products":{
+    "categories":"Catégories",
+    "allProducts":"Tous les Produits",
+    "seo": {
+      "title": "Produits Agricoles et Engrais | Egypt Green - Solutions Premium pour Sols Africains et Asiatiques",
+      "description": "Découvrez la gamme complète d'Egypt Green d'engrais agricoles, d'améliorateurs de sol et de solutions de nutrition végétale. Spécialement formulés pour les sols africains et asiatiques avec des résultats prouvés dans plus de 15 pays.",
+      "keywords": "engrais agricoles, engrais NPK, améliorateurs de sol, nutrition végétale, engrais organiques, engrais foliaires, micronutriments, conditionneurs de sol, agriculture africaine, sols asiatiques, produits Egypt Green, solutions agricoles, produits fermiers, nutrition des cultures"
+    },
+    "pageTitle": "Nos Produits",
+    "pageSubtitle": "Solutions agricoles complètes conçues pour une performance optimale des cultures",
+    "loadingText": "Chargement des produits...",
+    "noProductsFound": "Aucun produit trouvé",
+    "filterByCategory": "Filtrer par catégorie",
+    "allCategories": "Toutes les catégories",
+    "viewProduct": "Voir les détails",
+    "productsCount": "produits trouvés"
+  }
+}

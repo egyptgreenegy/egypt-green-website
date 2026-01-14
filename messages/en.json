@@ -1,0 +1,401 @@
+{
+  "Header": {
+    "logoAlt": "Egypt Green Logo",
+    "companyName": "Egypt Green",
+    "address": "Cairo, Egypt",
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products",
+      "blog": "Blog",
+      "contact": "Contact",
+      "beAgent":"Be an Agent",
+      "articles":"Articles"
+    },
+    "downloadBrochure": "Download Brochure",
+    "selectLanguage": "Select Language"
+  },
+  "Footer": {
+    "logoAlt": "Egypt Green Logo",
+    "companyName": "Egypt Green",
+    "companyDescription": "Leading provider of sustainable agricultural solutions for farmers across Africa and the Middle East.",
+    "address": "Cairo, Egypt",
+    "copyright": "All Rights Reserved",
+    "sections": {
+      "quickLinks": "Quick Links",
+      "products": "Our Products",
+      "support": "Support"
+    },
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products",
+      "blog": "Blog",
+      "contact": "Contact Us",
+      "fertilizers": "Fertilizers",
+      "pestControl": "Pest Control",
+      "soilEnhancers": "Soil Enhancers",
+      "organicSolutions": "Organic Solutions",
+      "faq": "FAQ",
+      "shipping": "Shipping",
+      "returns": "Returns",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to our newsletter for the latest updates and offers.",
+      "placeholder": "Your email address",
+      "subscribe": "Subscribe"
+    }
+  },
+  "About": {
+    "title": "About Us",
+    "subtitle": "Pioneering sustainable agricultural solutions for a greener future",
+    "heroAlt": "Egypt Green farming fields",
+    "ourStory": "Our Story",
+    "storyPara1": "Founded in 2010, Egypt Green began with a simple mission: to provide farmers with sustainable agricultural solutions that enhance productivity while preserving the environment.",
+    "storyPara2": "What started as a small research initiative has grown into a leading provider of organic agricultural products across Africa and the Middle East, serving thousands of farmers with innovative solutions.",
+    "storyPara3": "Today, we continue to expand our reach and impact, developing new products and technologies that address the evolving challenges of modern agriculture.",
+    "established": "Est. 2010",
+    "countries": "15+ Countries",
+    "farmers": "10,000+ Farmers",
+    "storyImageAlt": "Egypt Green founders in the field",
+    "missionVision": "Mission & Vision",
+    "missionVisionSubtitle": "Guided by our commitment to sustainable agriculture and farmer success",
+    "ourMission": "Our Mission",
+    "missionText": "To empower farmers with sustainable agricultural solutions that enhance productivity, preserve the environment, and improve livelihoods.",
+    "missionPoint1": "Develop innovative organic products",
+    "missionPoint2": "Provide accessible solutions for all farmers",
+    "missionPoint3": "Support sustainable farming practices",
+    "ourVision": "Our Vision",
+    "visionText": "To be the leading provider of sustainable agricultural solutions in Africa and the Middle East, driving the transition to regenerative farming.",
+    "visionPoint1": "Transform agriculture across the region",
+    "visionPoint2": "Reduce environmental impact of farming",
+    "visionPoint3": "Improve food security and farmer prosperity",
+    "ourValues": "Our Values",
+    "valuesSubtitle": "The principles that guide our work and relationships",
+    "values": {
+      "sustainability": "Sustainability",
+      "sustainabilityDesc": "Commitment to environmental stewardship in all our products and operations",
+      "quality": "Quality",
+      "qualityDesc": "Delivering premium products that meet the highest standards of effectiveness",
+      "community": "Community",
+      "communityDesc": "Building strong relationships with farmers and agricultural communities",
+      "innovation": "Innovation",
+      "innovationDesc": "Continuously developing new solutions to address evolving challenges"
+    },
+    "ourTeam": "Our Team",
+    "teamSubtitle": "Meet the dedicated professionals behind Egypt Green",
+    "joinUs": "Join Our Mission",
+    "joinUsText": "Interested in partnering with us or learning more about our sustainable agricultural solutions?",
+    "contactButton": "Contact Us Today"
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for inquiries, support, or partnership opportunities",
+    "heroAlt": "Egypt Green contact support",
+    "contactInfo": "Contact Information",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressLine1": "123 Agricultural Avenue",
+    "addressLine2": "Cairo, Egypt",
+    "hours": "Business Hours",
+    "weekdays": "Monday - Friday: 9:00 AM - 5:00 PM",
+    "weekend": "Saturday: 10:00 AM - 2:00 PM",
+    "sendMessage": "Send Us a Message",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "Enter your phone number (optional)",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "What is your message about?",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Please provide details about your inquiry...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Thank you! Your message has been sent successfully. We'll get back to you soon.",
+    "findUs": "Find Us",
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneInvalid": "Please enter a valid phone number (10 digits)"
+    }
+  },
+  "Testimonials": {
+    "title": "Customer Testimonials",
+    "subtitle": "Hear what our customers say about our products and services",
+    "viewTestimonials": "View Testimonials",
+    "shareYourStory": "Share Your Story",
+    "customerStories": "What Our Customers Say",
+    "all": "All",
+    "farmers": "Farmers",
+    "distributors": "Distributors",
+    "partners": "Partners",
+    "shareExperience": "Share Your Experience",
+    "shareSubtitle": "We'd love to hear about your experience with Egypt Green products",
+    "formName": "Your Name",
+    "formEmail": "Email Address",
+    "formType": "You are a",
+    "formRating": "Your Rating",
+    "formMessage": "Your Testimonial",
+    "formSubmit": "Submit Testimonial",
+    "thankYou": "Thank you for your feedback!"
+  },
+   "BeAgent": {
+    "title": "Be Agent",
+    "subtitle1": "Exceptional investment opportunity in the field of agricultural fertilizers and enhancers",
+    "subtitle2": "Are you looking for a long-term partnership with a reliable manufacturer that offers you effective and demanded products in agricultural markets",
+    "whyChoose": "Why become an agent for Egypt Green Factory?",
+    "whyChooseDescription": "We provide everything you need to become a successful agricultural agent with continuous support and unlimited growth opportunities",
+    "benefits": {
+      "products": {
+        "title": "Products specially designed for African and Asian soils",
+        "description": "We offer effective formulations proven in the field to improve soil fertility and increase production."
+      },
+      "experience": {
+        "title": "Experience and proven track record",
+        "description": "More than 15 years of success, and 60+ agents in Africa and Asia achieving real growth in their markets"
+      },
+      "contacts": {
+        "title": "Simplified contracts and fast export procedures",
+        "description": "We provide a flexible contracting system and comprehensive logistical support to facilitate supply operations."
+      },
+      "marketing": {
+        "title": "Continuous marketing support",
+        "description": "Promotional materials, technical training, and agricultural consultations to ensure your success in the market"
+      }
+    },
+    "requirements": {
+      "title": "Who can join?",
+      "experience": {
+        "title": "Experience",
+        "description": "Sales or agricultural experience (preferred but not required)"
+      },
+      "skills": {
+        "title": "Skills",
+        "description": "Excellent communication skills and ability to work with clients"
+      },
+      "location": {
+        "title": "Location",
+        "description": "Residence in the area you want to work in"
+      }
+    },
+    "form": {
+      "title": "Join Application",
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number"
+      },
+      "whatsapp": {
+        "label": "WhatsApp Number",
+        "placeholder": "Enter your WhatsApp number"
+      },
+      "companyName": {
+        "label": "Company Name",
+        "placeholder": "Enter your company name"
+      },
+      "country": {
+        "label": "Country",
+        "placeholder": "Select Country"
+      },
+      "website": {
+        "label": "Website or Social Media Platforms",
+        "placeholder": "Enter your website or social media accounts"
+      },
+      "experience": {
+        "label": "Years of Experience in Agriculture",
+        "placeholder": "Select Experience",
+        "options": {
+          "none": "No Experience",
+          "1-2": "1-2 Years",
+          "3-5": "3-5 Years",
+          "6-10": "6-10 Years",
+          "10plus": "10+ Years"
+        }
+      },
+      "hasDistributionExperience": {
+        "label": "Have you previously obtained an agency for distributing fertilizers or pesticides?",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "message": {
+        "label": "Message / Additional Notes",
+        "placeholder": "Add any additional notes or messages..."
+      },
+      "agreeTerms": "I agree to the terms and conditions",
+      "submit": "Submit Application",
+      "submitting": "Submitting...",
+      "successMessage": "Your application has been submitted successfully! We will contact you soon."
+    },
+    "stats": {
+      "activeAgents": "Active Agents",
+      "salesCompleted": "Sales Completed",
+      "clientSatisfaction": "Client Satisfaction",
+      "yearsExperience": "Years Experience"
+    }
+  },
+  "Articles":{
+    
+  },
+  "Landing": {
+    "hero": {
+      "badge": "Trusted Partner Since 2016",
+      "title": "Become an Agent for Egypt Green Factory",
+      "subtitle": "A Strategic Partnership Built on Trust and Delivering Success",
+      "description": "Are you seeking a lucrative opportunity in the agricultural fertilizers and soil amendments industry ? Join our network of successful agents across 15+ countries in Africa and Asia, and partner with Egypt Green Factory – a leader in innovative fertilizer solutions tailored for tropical soils and challenging climates ",
+      "stats": [
+        { "number": "25+", "label": "Products" },
+        { "number": "60+", "label": "Partners" },
+        { "number": "15+", "label": "Countries" },
+        { "number": "8+", "label": "Years" }
+      ]
+    },
+    "challenges": {
+      "title": "Challenges Distributors Face",
+      "subtitle": "We understand the complexities of the fertilizer distribution business",
+      "items": [
+        {
+          "icon": "BarChart3",
+          "title": "Inconsistent Supply",
+          "description": "Struggling to maintain consistent inventory levels and meet customer demand"
+        },
+        {
+          "icon": "Award",
+          "title": "Quality Concerns",
+          "description": "Finding reliable suppliers who guarantee product quality and consistency"
+        },
+        {
+          "icon": "Users",
+          "title": "Limited Product Range",
+          "description": "Need for comprehensive product portfolio to serve diverse customer needs"
+        }
+      ]
+    },
+    "solution": {
+      "title": "Your Complete Fertilizer Solution",
+      "subtitle": "Egypt Green provides everything you need to succeed in the fertilizer distribution market"
+    },
+    "products": {
+      "title": "Comprehensive Product Portfolio",
+      "subtitle": "From basic nutrients to specialized solutions",
+      "categories": [
+        {
+          "icon": "Leaf",
+          "title": "NPK Compound Fertilizers",
+          "description": "Complete nutrition solutions for all crop types"
+        },
+        {
+          "icon": "BarChart3",
+          "title": "Water-Soluble Fertilizers",
+          "description": "100% soluble for fertigation and foliar application"
+        },
+        {
+          "icon": "Globe",
+          "title": "Soil Conditioners",
+          "description": "Humic, fulvic acids and amino acid complexes"
+        },
+        {
+          "icon": "Award",
+          "title": "Micronutrients",
+          "description": "Essential trace elements for optimal plant health"
+        },
+        {
+          "icon": "Truck",
+          "title": "Foliar Fertilizers",
+          "description": "Quick-acting nutrients for immediate plant response"
+        },
+        {
+          "icon": "Star",
+          "title": "Specialty Products",
+          "description": "Custom formulations for specific crop requirements"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Partner with Egypt Green",
+      "subtitle": "Comprehensive support for your distribution success",
+      "items": [
+        {
+          "icon": "Award",
+          "title": "Guaranteed Quality",
+          "description": "ISO certified manufacturing with rigorous quality control"
+        },
+        {
+          "icon": "Truck",
+          "title": "Reliable Supply Chain",
+          "description": "Consistent availability and on-time delivery worldwide"
+        },
+        {
+          "icon": "Users",
+          "title": "Technical Support",
+          "description": "Expert agronomic guidance and marketing support"
+        },
+        {
+          "icon": "Globe",
+          "title": "Global Reach",
+          "description": "Serving distributors across Africa and the Gulf region"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "What Our Partners Say",
+      "items": [
+        {
+          "name": "Ahmed Hassan",
+          "company": "Green Valley Distributors",
+          "country": "Kenya",
+          "text": "Egypt Green has been our reliable partner for 3 years. Their product quality and support are exceptional."
+        },
+        {
+          "name": "Sarah Al-Mahmoud",
+          "company": "Gulf Agricultural Solutions",
+          "country": "UAE",
+          "text": "The technical support and product range have helped us expand our market significantly."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Partner with Us?",
+      "subtitle": "Join our network of successful distributors worldwide",
+      "email": "info@egypt-green.com",
+      "phone": "+201140144322",
+      "whatsapp": "wa.me/+201140144322",
+      "address": "Cairo, Egypt"
+    },
+    "seo":{
+      "title": "Become an Agent for Egypt Green Factory",
+      "description": "Join Egypt Green Factory as a distributor and access a comprehensive range of high-quality fertilizers and soil amendments. Partner with us for guaranteed quality, reliable supply, and expert support in the agricultural market.",
+      "keywords": "Egypt Green, fertilizer distributor, agricultural solutions, soil amendments, NPK fertilizers, foliar fertilizers, micronutrients, soil conditioners, global distribution, agricultural partnership"
+    }
+  },
+  "Products":{
+    "categories":"Categories",
+    "allProducts":"All Products",
+    "seo": {
+      "title": "Agricultural Products & Fertilizers | Egypt Green - Premium Solutions for African & Asian Soils",
+      "description": "Discover Egypt Green's comprehensive range of agricultural fertilizers, soil enhancers, and plant nutrition solutions. Specially formulated for African and Asian soils with proven results in over 15 countries.",
+      "keywords": "agricultural fertilizers, NPK fertilizers, soil enhancers, plant nutrition, organic fertilizers, foliar fertilizers, micronutrients, soil conditioners, African agriculture, Asian soils, Egypt Green products, agricultural solutions, farming products, crop nutrition"
+    },
+    "pageTitle": "Our Products",
+    "pageSubtitle": "Comprehensive agricultural solutions designed for optimal crop performance",
+    "loadingText": "Loading products...",
+    "noProductsFound": "No products found",
+    "filterByCategory": "Filter by Category",
+    "allCategories": "All Categories",
+    "viewProduct": "View Details",
+    "productsCount": "products found"
+  }
+}
