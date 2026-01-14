@@ -1,6 +1,6 @@
 import { ILang } from "@/types/lang";
 
-export const BASE_URL='https://egypt-green-api.vercel.app/api';
+export const BASE_URL='https://egypt-green-backend.vercel.app/api';
 
 export const Languages: ILang[] = [
     { code: "en", name: "English", flag: "/icons/enFlag.svg" },
